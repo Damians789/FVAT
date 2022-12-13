@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Go4CdE3T4v3HyqV/lbPLW5F1VCFZbs2qEkq4FsuaazXFyFvOxOSAUVEH4fBFwq8S8tR5PPqQAQ+ANQWCBEpR+w==",
+  "success": true,
+  "projectFilePath": "D:\\sq\\III_rok\\V_semestr\\NET\\Cwiczenia\\lab2 - dalsze, ale drugi projekt\\wersja1\\FVAT\\FVAT\\FVAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danny\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

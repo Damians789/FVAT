@@ -1,0 +1,16 @@
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.GlobalUsings.g.cs
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.csproj.AssemblyReference.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.AssemblyInfoInputs.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.AssemblyInfo.cs
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.csproj.CoreCompileInputs.cache
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\bin\Debug\net6.0\FVAT.exe
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\bin\Debug\net6.0\FVAT.deps.json
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\bin\Debug\net6.0\FVAT.runtimeconfig.json
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\bin\Debug\net6.0\FVAT.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\bin\Debug\net6.0\ref\FVAT.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\bin\Debug\net6.0\FVAT.pdb
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\ref\FVAT.dll
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.pdb
+D:\sq\III_rok\V_semestr\NET\Cwiczenia\lab2 - dalsze, ale drugi projekt\wersja1\FVAT\FVAT\obj\Debug\net6.0\FVAT.genruntimeconfig.cache
